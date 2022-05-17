@@ -23,8 +23,7 @@
 
 
 
-I'm a Computer Engineering Graduate, a Budding Software Developer and Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, 
-and building community Where sharing of knowledge is super easy. I'm mostly prefer Python as Programming Language. 
+I'm a Computer Engineering Graduate, a Budding Software Developer and Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I mostly prefer Python as my Programming Language. 
 
 ## Find me around the web 🌎:
 - Connect with me on <a href="https://www.linkedin.com/in/shreyanshshukla1102/">LinkedIn</a> 💼
