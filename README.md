@@ -25,7 +25,7 @@
 [![Shreyansh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shreyanshshukla1102)](https://github.com/KnlnKS/leetcode-stats)
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shreyanshshukla1102" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shreyanshshukla1102&theme=dark" width="400"/>
 </a>
 
 I'm a Computer Engineering Graduate, a Budding Software Developer and Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I mostly prefer Python as my Programming Language. 
