@@ -21,7 +21,7 @@
 
 <br/>
 
-## LeetCode for lyfe! ([profile](https://leetcode.com/shreyanshshukla1102))
+## LeetCode Stats! ([profile](https://leetcode.com/shreyanshshukla1102))
 [![Shreyansh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shreyanshshukla1102)](https://github.com/KnlnKS/leetcode-stats)
 
 I'm a Computer Engineering Graduate, a Budding Software Developer and Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I mostly prefer Python as my Programming Language. 
