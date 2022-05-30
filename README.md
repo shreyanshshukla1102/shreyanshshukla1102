@@ -22,7 +22,7 @@
 <br/>
 
 ## LeetCode Stats! ([profile](https://leetcode.com/shreyanshshukla1102))
-[![Shreyansh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=shreyanshshukla1102)](https://github.com/KnlnKS/leetcode-stats)
+[![Shreyansh's LeetCode stats]
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=shreyanshshukla1102&theme=dark" width="400"/>
