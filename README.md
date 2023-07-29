@@ -4,9 +4,6 @@
 ![Profile Count](https://komarev.com/ghpvc/?username=shreyanshshukla1102) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shreyansh1102?style=social)](https://twitter.com/shreyansh1102) 
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shreyanshshukla1102/)
-![github](https://github.com/shreyanshshukla1102/shreyanshshukla1102/blob/main/Banner.png)
-
-
 
 <a href="https://github.com/shreyanshshukla1102">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyanshshukla1102&show_icons=true&theme=merko&count_private=true" alt="Shreyansh's github stats" />
@@ -24,13 +21,13 @@
 ## LeetCode Stats! ([profile](https://leetcode.com/shreyanshshukla1102))
 ### Shreyansh's LeetCode stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shreyanshshukla1102&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shreyanshshukla1102&theme=dark)](https://leetcode.com/shreyanshshukla1102)
 
 <br/>
 
 
 ## About Me
-I'm a Computer Engineering Graduate, a Budding Software Developer and Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I mostly prefer Python as my Programming Language. 
+Software Developer at Link Group - focusing upon BFSI Sector. PEGA CSSA V8.8 / CSA V8.7 certified. A Computer Engineering Graduate, and a Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I mostly prefer Python as my Programming Language. 
 
 ## Find me around the web 🌎:
 - Connect with me on <a href="https://www.linkedin.com/in/shreyanshshukla1102/">LinkedIn</a> 💼
