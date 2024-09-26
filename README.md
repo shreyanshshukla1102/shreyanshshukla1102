@@ -21,8 +21,7 @@
 ## LeetCode Stats! ([profile](https://leetcode.com/shreyanshshukla1102))
 ### Shreyansh's LeetCode stats
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shreyanshshukla1102&theme=dark)](https://leetcode.com/shreyanshshukla1102)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shreyanshshukla1102?theme=dark)](https://leetcode.com/shreyanshshukla1102)
 <br/>
 
 
