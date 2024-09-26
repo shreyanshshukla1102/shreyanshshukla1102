@@ -27,7 +27,7 @@
 
 
 ## About Me
-Software Developer at Link Group - focusing upon BFSI Sector. PEGA CSSA V8.8 / CSA V8.7 certified. A Computer Engineering Graduate, and a Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I prefer Python as my Programming Language. 
+Software Developer at MUFG Pension & Market Services - focusing upon BFSI Sector. PEGA CSSA V8.8 / CSA V8.7 certified. A Computer Engineering Graduate, and a Tech Enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community where sharing of knowledge is super easy. I prefer Python as my Programming Language. 
 
 ## Find me around the web 🌎:
 - Connect with me on <a href="https://www.linkedin.com/in/shreyanshshukla1102/">LinkedIn</a> 💼
